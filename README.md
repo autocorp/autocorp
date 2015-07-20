@@ -1,3 +1,11 @@
-[![Stories in Ready](https://badge.waffle.io/autocorp/autocorp.svg?label=ready&title=Ready)](http://waffle.io/autocorp/autocorp)
+# welcome human
 
-# autocorp
+This repo doesn't contain any code, but we will point you in the right direction.
+
+The best place to get started is https://github.com/autocorp/autocorp/wiki
+
+## Projects
+
+### autobot
+
+Our flagship project, autobot is an automation robot https://github.com/autocorp/autobot
